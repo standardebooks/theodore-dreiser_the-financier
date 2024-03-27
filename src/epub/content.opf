@@ -45,7 +45,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1840</dc:source>
 		<dc:source>https://archive.org/details/financier0000theo</dc:source>
-		<meta property="se:production-notes">The 1912 edition differs from the later edition used for these page scans.</meta>
+		<meta property="se:production-notes">The 1912 first edition differs from the later edition used for this transcription and page scans.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Financier</meta>
