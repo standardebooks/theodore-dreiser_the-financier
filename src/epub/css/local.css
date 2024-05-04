@@ -33,14 +33,23 @@
 	text-align: right;
 }
 
+[epub|type~="z3998:letter"] header p:first-child + p{
+	margin-top: 1em;
+}
+
 @supports(display: flex){
 	[epub|type~="z3998:letter"] header{
 		display: flex;
 		flex-wrap: wrap;
+		gap: 1em;
 		justify-content: space-between;
 	}
 
 	[epub|type~="z3998:letter"] header p:first-child{
 		width: 100%;
+	}
+
+	[epub|type~="z3998:letter"] header p:first-child + p{
+		margin-top: 0;
 	}
 }
