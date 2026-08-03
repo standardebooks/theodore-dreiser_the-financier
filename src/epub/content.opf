@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/theodore-dreiser/the-financier</dc:identifier>
 		<dc:date>2024-05-04T23:12:37Z</dc:date>
@@ -40,12 +40,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Trilogy of Desire</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">A young man makes and loses a fortune in Civil War era America.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young man makes and loses a fortune in Civil War era America.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Frank Cowperwood is a teenager living in Philadelphia when he comes across a lobster kept in a tank. As the lobster lunges at and devours the other sea creatures helplessly trapped with it, Frank decides that this pitiless example of nature red in tooth and claw is the most effective way of advancing in wealth and human affairs.&lt;/p&gt;
 			&lt;p&gt;After making some easy money acting as a middleman for a castile soap distributor, Frank quickly finds himself amassing a fortune in business and investments as the Civil War tears across America. Soon he finds himself willingly embroiled in an embezzlement scheme with the hapless city treasurer—only for it all to violently collapse when the Great Chicago Fire causes a stock market crash.&lt;/p&gt;
 			&lt;p&gt;The character of Frank Cowperwood and the events surrounding his life are based on the biography of the real-life streetcar tycoon Charles Yerkes, a man so reviled by his contemporaries that he attempted to rehabilitate his public image by building the Yerkes Observatory, which was to be at the time the world’s largest telescope. Frank, a ruthless and calculating man of acquisition, is a classic example of the type of warped and avaricious robber baron that became a popular stock character in fiction of the era, and that figured prominently in other milestone works, like &lt;a href="https://standardebooks.org/ebooks/john-galsworthy/the-forsyte-saga"&gt;&lt;i&gt;The Forsyte Saga&lt;/i&gt;&lt;/a&gt;, that are critical of the spiritual rot that unimaginable wealth can engender in a hyper-capitalist society.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1840</dc:source>
 		<dc:source>https://archive.org/details/financier0000theo</dc:source>
